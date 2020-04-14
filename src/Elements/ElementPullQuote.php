@@ -4,7 +4,6 @@ namespace Dynamic\Elements\PullQuote\Elements;
 
 use DNADesign\Elemental\Models\BaseElement;
 use phpDocumentor\Reflection\DocBlock\Tags\Link;
-use SilverStripe\AssetAdmin\Forms\UploadField;
 use SilverStripe\Assets\Image;
 use SilverStripe\Forms\FieldList;
 use SilverStripe\ORM\FieldType\DBField;
@@ -49,7 +48,7 @@ class ElementPullQuote extends BaseElement
                 'Content',
                 $fields->dataFieldByName('Image')
                     ->setFolderName('Uploads/Elements/PullQuote')
-                    ->setAllowedMaxFileNumber(1)
+                    ->getIsMultiUpload(false)
                     ->setAllowedFileCategories('image')
             );
             $fields->dataFieldByName('Content')
