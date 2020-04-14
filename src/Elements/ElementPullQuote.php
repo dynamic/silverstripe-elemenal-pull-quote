@@ -3,12 +3,15 @@
 namespace Dynamic\Elements\PullQuote\Elements;
 
 use DNADesign\Elemental\Models\BaseElement;
-use phpDocumentor\Reflection\DocBlock\Tags\Link;
 use SilverStripe\Assets\Image;
 use SilverStripe\Forms\FieldList;
 use SilverStripe\ORM\FieldType\DBField;
 use SilverStripe\ORM\FieldType\DBHTMLText;
 
+/**
+ * Class ElementPullQuote
+ * @package Dynamic\Elements\PullQuote\Elements
+ */
 class ElementPullQuote extends BaseElement
 {
     /**
