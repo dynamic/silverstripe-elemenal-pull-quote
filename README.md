@@ -2,6 +2,17 @@
 
 Display a quote with head shot, name and title
 
+[![Build Status](https://travis-ci.org/dynamic/silverstripe-elemental-pull-quote.svg?branch=master)](https://travis-ci.org/dynamic/silverstripe-elemental-pull-quote)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-pull-quote/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-pull-quote/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-pull-quote/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-pull-quote/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-pull-quote/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-pull-quote/build-status/master)
+[![codecov](https://codecov.io/gh/dynamic/silverstripe-elemental-pull-quote/branch/master/graph/badge.svg)](https://codecov.io/gh/dynamic/silverstripe-elemental-pull-quote)
+
+[![Latest Stable Version](https://poser.pugx.org/dynamic/silverstripe-elemental-pull-quote/v/stable)](https://packagist.org/packages/dynamic/silverstripe-elemental-pull-quote)
+[![Total Downloads](https://poser.pugx.org/dynamic/silverstripe-elemental-pull-quote/downloads)](https://packagist.org/packages/dynamic/silverstripe-elemental-pull-quote)
+[![Latest Unstable Version](https://poser.pugx.org/dynamic/silverstripe-elemental-pull-quote/v/unstable)](https://packagist.org/packages/dynamic/silverstripe-elemental-pull-quote)
+[![License](https://poser.pugx.org/dynamic/silverstripe-elemental-pull-quote/license)](https://packagist.org/packages/dynamic/silverstripe-elemental-pull-quote)
+
 ## Requirements
 
 * Silverstripe ^4.3
@@ -15,22 +26,6 @@ composer require dynamic/silverstripe-elemental-pull-quote
 
 ## License
 See [License](license.md)
-
-## Example configuration (optional)
-If your module makes use of the config API in SilverStripe it's a good idea to provide an example config
- here that will get the module working out of the box and expose the user to the possible configuration options.
-
-Provide a yaml code example where possible.
-
-```yaml
-
-Page:
-  config_option: true
-  another_config:
-    - item1
-    - item2
-
-```
 
 ## Getting more elements
 
