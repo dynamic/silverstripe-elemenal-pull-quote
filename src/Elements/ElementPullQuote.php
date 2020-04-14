@@ -48,7 +48,6 @@ class ElementPullQuote extends BaseElement
                 'Content',
                 $fields->dataFieldByName('Image')
                     ->setFolderName('Uploads/Elements/PullQuote')
-                    ->getIsMultiUpload(false)
                     ->setAllowedFileCategories('image')
             );
             $fields->dataFieldByName('Content')
