@@ -18,7 +18,7 @@ class ElementPullQuote extends BaseElement
      * @var array
      */
     private static $db = [
-        'Job Title' => 'Varchar(255)',
+        'JobTitle' => 'Varchar(255)',
         'Content' => 'HTMLText',
     ];
 
