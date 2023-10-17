@@ -19,7 +19,8 @@
     ],
     "require": {
         "dnadesign/silverstripe-elemental": "^5.0",
-        "jonom/focuspoint": "^5.0"
+        "jonom/focuspoint": "^5.0",
+        "silverstripe/framework": "^5"
     },
     "require-dev": {
         "silverstripe/recipe-testing": "^3"
