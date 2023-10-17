@@ -18,11 +18,12 @@
         }
     ],
     "require": {
-        "dnadesign/silverstripe-elemental": "^4.0",
-        "jonom/focuspoint": "^4.0"
+        "dnadesign/silverstripe-elemental": "^5.0",
+        "jonom/focuspoint": "^5.0",
+        "silverstripe/framework": "^5"
     },
     "require-dev": {
-        "silverstripe/recipe-testing": "^2"
+        "silverstripe/recipe-testing": "^3"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -37,7 +38,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.x-dev"
+            "dev-master": "2.x-dev"
         }
     }
 }
