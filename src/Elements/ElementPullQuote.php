@@ -86,6 +86,6 @@ class ElementPullQuote extends BaseElement
      */
     public function getType()
     {
-        return _t(__CLASS__.'.BlockType', 'Pull Quote');
+        return _t(__CLASS__ . '.BlockType', 'Pull Quote');
     }
 }
