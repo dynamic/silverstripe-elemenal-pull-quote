@@ -2,10 +2,7 @@
 
 Display a quote with head shot, name and title
 
-[![Build Status](https://travis-ci.org/dynamic/silverstripe-elemental-pull-quote.svg?branch=master)](https://travis-ci.org/dynamic/silverstripe-elemental-pull-quote)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-pull-quote/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-pull-quote/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-pull-quote/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-pull-quote/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-pull-quote/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dynamic/silverstripe-elemental-pull-quote/build-status/master)
+[![CI](https://github.com/dynamic/silverstripe-elemental-pull-quote/actions/workflows/ci.yml/badge.svg)](https://github.com/dynamic/silverstripe-elemental-pull-quote/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/dynamic/silverstripe-elemental-pull-quote/branch/master/graph/badge.svg)](https://codecov.io/gh/dynamic/silverstripe-elemental-pull-quote)
 
 [![Latest Stable Version](https://poser.pugx.org/dynamic/silverstripe-elemental-pull-quote/v/stable)](https://packagist.org/packages/dynamic/silverstripe-elemental-pull-quote)
@@ -29,14 +26,15 @@ See [License](license.md)
 
 ## Getting more elements
 
-See [Elemental modules by Dynamic](https://github.com/dynamic/silverstripe-elemental-blocks#getting-more-elements)
+See [Elemental modules by Dynamic](https://github.com/orgs/dynamic/repositories?q=elemental&type=all&language=&sort=)
 
 ## Configuration
 
-See [SilverStripe Elemental Configuration](https://github.com/dnadesign/silverstripe-elemental#configuration)
+See [SilverStripe Elemental Configuration](https://github.com/silverstripe/silverstripe-elemental#configuration)
 
 ## Maintainers
- *  [Dynamic](http://www.dynamicagency.com) (<dev@dynamicagency.com>)
+
+ *  [Dynamic](https://www.dynamicagency.com) (<dev@dynamicagency.com>)
 
 ## Bugtracker
 Bugs are tracked in the issues section of this repository. Before submitting an issue please read over
