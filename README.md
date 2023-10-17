@@ -12,9 +12,9 @@ Display a quote with head shot, name and title
 
 ## Requirements
 
-* Silverstripe ^4.3
-* Silverstripe Elemental ^4.0
-* jonom/focuspoint ^4.0
+* Silverstripe ^5
+* Silverstripe Elemental ^5
+* jonom/focuspoint ^5
 
 ## Installation
 
@@ -24,6 +24,11 @@ composer require dynamic/silverstripe-elemental-pull-quote
 
 ## License
 See [License](license.md)
+
+## Screen Shots
+
+#### Default Bootstrap template
+![Front End sample of a Promos Element](./docs/en/_images/pull-quote-block.png)
 
 ## Getting more elements
 
