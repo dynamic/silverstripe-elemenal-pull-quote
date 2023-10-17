@@ -14,6 +14,7 @@ Display a quote with head shot, name and title
 
 * Silverstripe ^4.3
 * Silverstripe Elemental ^4.0
+* jonom/focuspoint ^4.0
 
 ## Installation
 
