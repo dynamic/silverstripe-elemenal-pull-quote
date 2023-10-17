@@ -5,10 +5,12 @@
                 <div class="col col-lg-10 col-xl-8">
                     <div class="card rounded-3">
                         <div class="card-body p-5">
-                            <div class="d-flex justify-content-center mb-4">
-                                <img src="$Image.FocusFill(100,100).URL"  alt="$Image.Title.ATT"
-                                    class="rounded-circle shadow-1-strong" width="100" height="100" />
-                            </div>
+                            <% if $Image %>
+                                <div class="d-flex justify-content-center mb-4">
+                                    <img src="$Image.FocusFill(100,100).URL"  alt="$Image.Title.ATT"
+                                        class="rounded-circle shadow-1-strong" width="100" height="100" />
+                                </div>
+                            <% end_if %>
                             <figure class="text-center mb-0">
                                 <blockquote class="blockquote mb-4">
                                     <p>
